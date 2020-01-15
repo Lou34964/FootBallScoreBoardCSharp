@@ -1,0 +1,11 @@
+C:\Users\maple\source\repos\ScoreBoard-Football\ScoreBoard-Football\bin\Debug\ScoreBoard-Football.exe.config
+C:\Users\maple\source\repos\ScoreBoard-Football\ScoreBoard-Football\bin\Debug\ScoreBoard-Football.exe
+C:\Users\maple\source\repos\ScoreBoard-Football\ScoreBoard-Football\bin\Debug\ScoreBoard-Football.pdb
+C:\Users\maple\source\repos\ScoreBoard-Football\ScoreBoard-Football\obj\Debug\ScoreBoard-Football.csprojAssemblyReference.cache
+C:\Users\maple\source\repos\ScoreBoard-Football\ScoreBoard-Football\obj\Debug\ScoreBoard_Football.Controller.resources
+C:\Users\maple\source\repos\ScoreBoard-Football\ScoreBoard-Football\obj\Debug\ScoreBoard_Football.Properties.Resources.resources
+C:\Users\maple\source\repos\ScoreBoard-Football\ScoreBoard-Football\obj\Debug\ScoreBoard_Football.ScoreBoard.resources
+C:\Users\maple\source\repos\ScoreBoard-Football\ScoreBoard-Football\obj\Debug\ScoreBoard_Football.Starter.resources
+C:\Users\maple\source\repos\ScoreBoard-Football\ScoreBoard-Football\obj\Debug\ScoreBoard-Football.csproj.GenerateResource.cache
+C:\Users\maple\source\repos\ScoreBoard-Football\ScoreBoard-Football\obj\Debug\ScoreBoard-Football.exe
+C:\Users\maple\source\repos\ScoreBoard-Football\ScoreBoard-Football\obj\Debug\ScoreBoard-Football.pdb
